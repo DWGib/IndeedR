@@ -18,5 +18,5 @@ magrittr
 Suggests:
 knitr,
 rmarkdown
-VignetteBuilder: knitr
-RoxygenNote: 5.0.1
+VignetteBuilder:knitr
+RoxygenNote:5.0.1
