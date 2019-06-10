@@ -10,13 +10,13 @@ BugReports: http://www.github.com/dashee87/jobbR/issues
 Maintainer: David Sheehan <davidfsheehan87@gmail.com>
 LazyData: true
 Imports:
-    httr,
-    rvest,
-    xml2,
-    jsonlite,
-    magrittr
+httr,
+rvest,
+xml2,
+jsonlite,
+magrittr
 Suggests:
-    knitr,
-    rmarkdown
+knitr,
+rmarkdown
 VignetteBuilder: knitr
 RoxygenNote: 5.0.1
